@@ -1,0 +1,4 @@
+export const FBLOGIN='FBLOGIN'
+export const FBLOGOUT='FBLOGOUT'
+export const FBPROFILE='FBPROFILE'
+export const GETPRODUCTS = 'GETPRODUCTS'
